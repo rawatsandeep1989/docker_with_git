@@ -8,6 +8,8 @@ if(choice == "add"):
     print(n1+n2)
 elif(choice == "mul"):
     print(n1*n2)
+elif(choice == "sub"):
+    print(n1-n2)
 else:
     print("wrong choice")
 
